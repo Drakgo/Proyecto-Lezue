@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "titulo": "Monitor Gamer 27\"",
+    "descripcion": "Monitor LED Full HD con 144Hz",
+    "codigo": "MON001",
+    "precio": 289.99,
+    "estado": true,
+    "stock": 15,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 2,
+    "titulo": "Teclado Mecánico RGB",
+    "descripcion": "Teclado con switches azules y retroiluminación",
+    "codigo": "TEC002",
+    "precio": 89.5,
+    "estado": true,
+    "stock": 30,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 3,
+    "titulo": "Mouse Inalámbrico",
+    "descripcion": "Mouse ergonómico con sensor óptico",
+    "codigo": "MOU003",
+    "precio": 35.0,
+    "estado": true,
+    "stock": 50,
+    "categoria": "Periféricos"
+  },
+  {
+    "id": 4,
+    "titulo": "Notebook Intel i5",
+    "descripcion": "Laptop con 8GB RAM y SSD 256GB",
+    "codigo": "NOT004",
+    "precio": 749.99,
+    "estado": true,
+    "stock": 10,
+    "categoria": "Computadoras"
+  },
+  {
+    "id": 5,
+    "titulo": "Auriculares Bluetooth",
+    "descripcion": "Auriculares con cancelación de ruido",
+    "codigo": "AUR005",
+    "precio": 129.99,
+    "estado": true,
+    "stock": 25,
+    "categoria": "Audio"
+  },
+  {
+    "id": 6,
+    "titulo": "Tablet Android 10\"",
+    "descripcion": "Pantalla HD, 64GB almacenamiento",
+    "codigo": "TAB006",
+    "precio": 199.99,
+    "estado": true,
+    "stock": 20,
+    "categoria": "Tablets"
+  },
+  {
+    "id": 7,
+    "titulo": "Impresora Multifunción",
+    "descripcion": "Impresión, escaneo y copiado",
+    "codigo": "IMP007",
+    "precio": 159.0,
+    "estado": true,
+    "stock": 12,
+    "categoria": "Oficina"
+  },
+  {
+    "id": 8,
+    "titulo": "Smartwatch Deportivo",
+    "descripcion": "Monitor de ritmo cardíaco y GPS",
+    "codigo": "SMA008",
+    "precio": 99.99,
+    "estado": true,
+    "stock": 40,
+    "categoria": "Wearables"
+  },
+  {
+    "id": 9,
+    "titulo": "Cámara Web HD",
+    "descripcion": "Cámara para videollamadas con micrófono",
+    "codigo": "CAM009",
+    "precio": 49.99,
+    "estado": true,
+    "stock": 35,
+    "categoria": "Accesorios"
+  },
+  {
+    "id": 10,
+    "titulo": "Router WiFi Dual Band",
+    "descripcion": "Velocidad hasta 1200Mbps",
+    "codigo": "ROU010",
+    "precio": 79.99,
+    "estado": true,
+    "stock": 18,
+    "categoria": "Redes"
+  }
+]
